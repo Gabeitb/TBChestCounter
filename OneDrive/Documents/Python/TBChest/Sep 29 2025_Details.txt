@@ -1,0 +1,199 @@
+Chest,Person,Crypt
+Orc Chest,Dvain,Level 10 Crypt
+Elegant Chest,Elrodad,Level 5 Crypt
+ Cobra Chest,KSAT90,Level 10 Crypt
+Sand Chest,KSAT90,Level 5 Crypt
+Stone Chest,KSAT90,Level 5 Crypt
+Bone Chest,KSAT90,Level 5 Crypt
+Gnome Workshop Chest,KSAT90,Level 10 Crypt
+Fire Chest,KSAT90,Level 10 Crypt
+Barbarian Chest,Anfir,Level 10 Crypt
+Bone Chest,KSAT90,Level 5 Crypt
+Stone Chest,Anfir,Level 10 Crypt
+Forgotten Chest,Hermes,Level 20 Crypt
+Stone Chest,Elrodad,Level 10 Crypt
+Gnome Workshop Chest,Hermes,Level 15 Crypt
+Union Chest,Andailas,Union of Triumph personal reward
+Union Chest,Andailas,Union of Triumph personal reward
+Union Chest,Andailas,Union of Triumph personal reward
+Barbarian Chest,Elrodad,Level 10 Crypt
+Union Chest,Will,Union of Triumph personal reward
+Union Chest,Will,Union of Triumph personal reward
+Union Chest,Will,Union of Triumph personal reward
+Elegant Chest,Elrodad,Level 10 Crypt
+Orc Chest,Kajar,Level 15 Crypt
+Gnome Workshop Chest,Gabei,Level 5 Crypt
+White Wood Chest,Kajar,Level 20 epic Crypt
+Mayan Chest,Kajar,Level 25 Crypt
+Mayan Chest,Kajar,Level 20 Crypt
+Forgotten Chest,Kajar,Level 15 Crypt
+House of Horrors Chest,Kajar,Level 15 epic Crypt
+Orc Chest,Kajar,Level 15 Crypt
+Cobra Chest,Kajar,Level 15 Crypt
+Chest of the Cursed,Kajar,Level 15 epic Crypt
+Scorpion Chest,Kajar,Level 15 epic Crypt
+Rare Dragon Chest,Kajar,Level 20 rare Crypt
+Barbarian Chest,Kajar,Level 15 Crypt
+Stone Chest,Kajar,Level 15 Crypt
+Elegant Chest,Kajar,Level 25 Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Kajar,Level 10 rare Crypt
+Mayan Chest,Kajar,Level 20 Crypt
+Barbarian Chest,Nuaginn,Level 15 Crypt
+Forgotten Chest,Nuaginn,Level 15 Crypt
+Orc Chest,Nuaginn,Level 15 Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Rare Dragon Chest,Nuaginn,Level 15 rare Crypt
+Elven Citadel Chest,Refur,Level 10 Citadel
+Cobra Chest,Refur,Level 15 Crypt
+Fire Chest,Nimduel,Level 20 Crypt
+Gladiator's Chest,Nimduel,Arena
+Fire Chest,Nimduel,Level 10 Crypt
+Gnome Workshop Chest,Gabei,Level 5 Crypt
+Harpy Chest,Nimduel,Level 20 epic Crypt
+Fire Chest,Andailas,Level 10 Crypt
+Barbarian Chest,Andailas,Level 10 Crypt
+Forgotten Chest,Nimduel,Level 20 Crypt
+Gnome Workshop Chest,Nimduel,Level 10 Crypt
+Infernal Chest,Refur,Level 10 Crypt
+Stone Chest,Ariswyn,Level 10 Crypt
+Rare Dragon Chest,Refur,Level 15 rare Crypt
+Mayan Chest,Nimduel,Level 10 Crypt
+Elven Citadel Chest,Ariswyn,Level 15 Citadel
+Stone Chest,Nimduel,Level 10 Crypt
+Stone Chest,Nimduel,Level 10 Crypt
+Orc Chest,Nimduel,Level 20 Crypt
+Rare Dragon Chest,Nimduel,Level 10 rare Crypt
+Cobra Chest,Jillybeanner,Level 15 Crypt
+Mayan Chest,Jillybeanner,Level 5 Crypt
+Fire Chest,Jillybeanner,Level 5 Crypt
+Orc Chest,Brara,Level 20 Crypt
+Stone Chest,Kajar,Level 15 Crypt
+Infernal Chest,MarkieMark,Level 10 Crypt
+Cobra Chest,Kajar,Level 20 Crypt
+Gnome Workshop Chest,MarkieMark,Level 10 Crypt
+Gnome Workshop Chest,Kajar,Level 20 Crypt
+Elegant Chest,MarkieMark,Level 15 Crypt
+Elegant Chest,MarkieMark,Level 10 Crypt
+Ancient Warrior's Chest,Kajar,Level 15 epic Crypt
+Infernal Chest,MarkieMark,Level 10 Crypt
+Orc Chest,Kajar,Level 10 Crypt
+Barbarian Chest,Kajar,Level 20 Crypt
+Abandoned Chest,Kajar,Level 20 epic Crypt
+Rare Dragon Chest,Kitty Kat,Level 15 rare Crypt
+Sand Chest,Kitty Kat,Level 15 Crypt
+Abandoned Chest,Kitty Kat,Level 15 epic Crypt
+Infernal Chest,Mark,source: Level 25 Crypt
+Ancient Bastion Chest,Mark,Level 20 epic Crypt
+Forgotten Chest,Mark,source: Level 25 Crypt
+Minotaur Chest,Kitty Kat,Level 15 epic Crypt
+Forgotten Chest,Mark,Level 15 Crypt
+Cobalt Chest,Kitty Kat,Level 15 epic Crypt
+White Wood Chest,Kitty Kat,Level 15 epic Crypt
+Mayan Chest,Kitty Kat,Level 15 Crypt
+Rare Dragon Chest,Kitty Kat,Level 15 rare Crypt
+Rare Dragon Chest,Kitty Kat,Level 15 rare Crypt
+Priest's Chest,Kitty Kat,Level 15 epic Crypt
+Union Chest,Strawhat,Union of Triumph personal reward
+Union Chest,Strawhat,Union of Triumph personal reward
+Union Chest,Strawhat,Union of Triumph personal reward
+Forgotten Chest,Mark the 3rd,Level 10 Crypt
+Fire Chest,Mark the 3rd,Level 15 Crypt
+Cursed Citadel Chest,Kajar,Level 25 Citadel
+Rare Dragon Chest,Mark the 3rd,Level 15 rare Crypt
+Elven Citadel Chest,Gabei,Level 10 Citadel
+Elven Citadel Chest,Kajar,Level 25 Citadel
+Rare Dragon Chest,Ariswyn,Level 15 rare Crypt
+Cobra Chest,Witchell,Level 5 Crypt
+Stone Chest,Witchell,Level 10 Crypt
+Elven Citadel Chest,Kajar,Level 25 Citadel
+Barbarian Chest,Witchell,Level 5 Crypt
+Mayan Chest,Stormbreaker,Level 10 Crypt
+Stone Chest,Witchell,Level 10 Crypt
+Gnome Workshop Chest,Gabei,Level 5 Crypt
+Gnome Workshop Chest,Witchell,Level 5 Crypt
+Elven Citadel Chest,Kajar,Level 20 Citadel
+Infernal Chest,Ariswyn,Level 10 Crypt
+Gnome Workshop Chest,Witchell,Level 10 Crypt
+Stone Chest,Ariswyn,Level 10 Crypt
+Bone Chest,Witchell,Level 5 Crypt
+Silver Chest,Kajar,Bank
+Silver Chest,Kajar,Bank
+Silver Chest,Kajar,Bank
+Bronze Chest,Ben Jamin Dover,Bank
+Bronze Chest,Ben Jamin Dover,Bank
+Bronze Chest,Ben Jamin Dover,Bank
+Bone Chest,Witchell,Level 10 Crypt
+Elven Citadel Chest,Kajar,Level 15 Citadel
+Orc Chest,Witchell,Level 10 Crypt
+Infernal Chest,Witchell,Level 5 Crypt
+Elven Citadel Chest,Kajar,Level 15 Citadel
+Stone Chest,Witchell,Level 10 Crypt
+Elven Citadel Chest,Kajar,Level 10 Citadel
+Elven Citadel Chest,Kajar,ey we,Level 10 Citadel
+Cobra Chest,Witchell,Level 10 Crypt
+Rare Dragon Chest,Witchell,Level 10 rare Crypt
+Elven Citadel Chest,Kajar, Level 20 Citadel
+Cobra Chest,MarkieMark,Level 15 Crypt
+Sand Chest,MarkieMark,Level 10 Crypt
+Elegant Chest,MarkieMark,Level 10 Crypt
+Cobra Chest,MarkieMark,Level 15 Crypt
+Rare Dragon Chest,MarkieMark,Level 15 rare Crypt
+Elegant Chest,MarkieMark,Level 15 Crypt
+Infernal Chest,Witchell,Level 5 Crypt
+Bone Chest,MarkieMark,Level 10 Crypt
+Bone Chest,MarkieMark,Level 15 Crypt
+Infernal Chest,MarkieMark,Level 10 Crypt
+Elven Citadel Chest,Kajar,Level 20 Citadel
+Gnome Workshop Chest,MarkieMark,Level 15 Crypt
+Bone Chest,MarkieMark,Level 15 Crypt
+Forgotten Chest,MarkieMark,Level 15 Crypt
+Mayan Chest,MarkieMark,) Level 15 Crypt
+Elegant Chest,MarkieMark,Level 15 Crypt
+Gnome Workshop Chest,Mark the 3rd,Level 10 Crypt
+Orc Chest,Mark the 3rd,Level 15 Crypt
+Elven Citadel Chest,Witchell,Level 10 Citadel
+Cobalt Chest,Mark the 3rd,Level 15 epic Crypt
+Gnome Workshop Chest,Mark the 3rd, Level 10 Crypt
+Rare Dragon Chest,Mark the 3rd,Level 15 rare Crypt
+Gnome Workshop Chest,Mark the 3rd,Level 15 Crypt
+Forgotten Chest,Mark the 3rd,Level 10 Crypt
+Infernal Chest,Mark the 3rd,Level 10 Crypt
+Rare Dragon Chest,Mark the 3rd,Level 15 rare Crypt
+Gnome Workshop Chest,Mark, Level 15 Crypt
+Cobra Chest,Mark,Level 10 Crypt
+Orc Chest,Mark,Level 10 Crypt
+Cursed Citadel Chest,Moingud, Level 25 Citadel
+Barbarian Chest,Mark,Level 10 Crypt
+Elegant Chest,Mark,Level 15 Crypt
+Sand Chest,Moingud,Level 20 Crypt
+Forgotten Chest,Moingud,Level 20 Crypt
+Mayan Chest,Moingud,Level 20 Crypt
+Sand Chest,Moingud,Level 20 Crypt
+Union Chest,Moingud,Union of Triumph personal reward
+Union Chest,Moingud,Union of Triumph personal reward
+Union Chest,Moingud,Union of Triumph personal reward
+Infernal Chest,Moingud,source: Level 25 Crypt
+Infernal Chest,Stormbreaker,,Level 10 Crypt
+Chest of the Cursed,Strawhat,Level 15 epic Crypt
+Elegant Chest,Stormbreaker,) Level 15 Crypt
+Stone Chest,Refur,Level 15 Crypt
+Mayan Chest,Ariswyn,Level 10 Crypt
+Rare Dragon Chest,Refur,Level 15 rare Crypt
+Cobra Chest,Ariswyn,Level 10 Crypt
+Sand Chest,Ariswyn,Level 10 Crypt
+Gnome Workshop Chest,Ariswyn,Level 10 Crypt
+Titansteel Chest,Moingud,Level 20 epic Crypt
+Ancient Warrior's Chest,Moingud,Level 20 epic Crypt
+Bone Chest,Moingud,Level 20 Crypt
+Infernal Chest,Moingud SK,Level 15 Crypt
+Forgotten Chest,Moingud SK,Level 15 Crypt
+Stone Chest,Moingud SK,Level 10 Crypt
+Bone Chest,Moingud SK,Level 5 Crypt
+Infernal Chest,Moingud SK,Level 10 Crypt
+Fire Chest,Moingud SK,Level 10 Crypt

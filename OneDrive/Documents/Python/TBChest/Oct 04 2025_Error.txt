@@ -1,0 +1,12 @@
+
+Omen Chest,Strawhat,,Dark Omens event
+Infernal Chest,Enfi,s,Level 10 Crypt
+Bone Chest,Enfi,S,Level 10 Crypt
+Cobra Chest,Enfi,s,Level 15 Crypt
+Bone Chest,Enfi,S,Level 15 Crypt
+Stone Chest,Enfi,S,Level 10 Crypt
+Rare Dragon Chest,Enfi,s,Level 15 rare Crypt
+Rare Dragon Chest,Enfi,s,Level 15 rare Crypt
+Rare Dragon Chest,Enfi,s,Level 15 rare Crypt
+Barbarian Chest,Anfir,,Level 10 Crypt
+Rare Dragon Chest,Nimduel,,Level 10 rare Crypt
