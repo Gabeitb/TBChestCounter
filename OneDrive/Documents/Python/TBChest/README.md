@@ -6,7 +6,7 @@
 Steps to run
 1. install pytesseract and place it in your path
 2. install python 3.10 or later and place it in your path
-3. download all of the files in the project and place in a directory called TBChest
+3. download all of the files in the project and place them in a directory called TBChest
 
 For every day
 
@@ -25,3 +25,4 @@ The detail file is filled during the day
 The summary file is created at the end of the day
 
 Note: If the program generates an error run steps 4-8 again 
+
