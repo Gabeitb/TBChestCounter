@@ -4,7 +4,7 @@ import datetime
 import os
 import pyautogui
 from time import sleep
-import pytesseract
+import  
 import re
 import pandas
 import random
@@ -35,7 +35,7 @@ def clickIt(x, y, delay=.1):
     autoit.mouse_move(pos[0] + random.randint(-5, 5), pos[1] + random.randint(-5, 5))
     
     autoit.mouse_click("left", x, y)
-    sleep(delay + random.random())
+    #sleep(delay + random.random())
 
 
 def getImage(knd, sub, amt):
@@ -108,7 +108,6 @@ def doWrite(score_file, error_file, txt):
             error_file.writelines(txt)
             error_file.flush()  # Flushes the internal buffer
             os.fsync(error_file.fileno()) # Forces OS to write to disk
-
 
 
 def doOpenButtons(score_file, error_file, place, img):
